@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# KeyChain
 
-You can use the [editor on GitHub](https://github.com/nimakam/keychain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+KeyChain provides consumers with a simple and secure means to use and manage their self-sovreign identity in a Web 3.0 (decentralized applications) world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Web 3.0
 
-### Markdown
+Web 1.0 took advantage of protocols like SMTP, HTML and HTTP for email and hypertext transfer, similarly Web 2.0 took advantage of technologies like CSS and AJAX. At the time of this writing, concepts like digital value and trust are evolving in blockchain ecosystems like Bitcoin, Ethereum and others. We expect the web to evolve with help of new protocols that leverage concepts of digital value and trust on top of decentralized blockchains. This evolution can be called Web 3.0.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Self-sovreign identity
 
-```markdown
-Syntax highlighted code block
+As the time of this writing, majority of consumer digital identity is entrusted to a few companies like Facebook, Google, Microsoft, Apple etc. These are central entities that are vulnerable to information breaches, event though the risk is small. Many of these companies also have business models that contradict with a genuine sense of stewardship for their customers' identity. In a decentralized digital ecosystem like Web 3.0, it is possible to for people to use and manage a self-sovreign identity since stewardship of their information can be entrusted to decentralized smart contracts. This means storing information like name, email and contact list on the blockchain securly and privately, while a smart contract manages access to that information based on the user's permissions. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nimakam/keychain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Decentralized applications
+ToDo

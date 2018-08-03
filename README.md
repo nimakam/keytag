@@ -1,6 +1,6 @@
-# KeyChain
+# Keychain
 
-KeyChain provides consumers with a simple and secure means to use and manage their self-sovreign identity in a Web 3.0 (decentralized applications) world.
+Keychain provides consumers with a simple and secure means to use and manage their self-sovreign identity in a Web 3.0 (decentralized applications) world.
 
 ## Web 3.0
 

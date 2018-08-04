@@ -1,1 +1,6 @@
+title: Keychain
+logo: /assets/img/logo.png
+description: Simple and secure control over consumer identity and personal data
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
